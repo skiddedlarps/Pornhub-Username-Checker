@@ -1,5 +1,5 @@
-# Pornhub username checker
-Python based pornhub username checker
+# Pornhub Username Checker
+Python based Pornhub Username Checker
 
 ![image](https://cdn.discordapp.com/attachments/982446836310765598/984549066480431175/image.jpg)
 
